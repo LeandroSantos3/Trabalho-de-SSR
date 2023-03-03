@@ -13,3 +13,4 @@ pasta "relatorio_openVAS :
 
     pasta "prints" - seria os meus prints de cada análise do openVAS de forma detalhada
 
+avaliado em 17 valores - um erro nas regras FW e a não implementação das "melhorias"
